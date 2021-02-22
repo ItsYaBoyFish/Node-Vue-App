@@ -1,0 +1,27 @@
+{
+  "name": "node-vue-app",
+  "version": "1.0.0",
+  "description": "Trying to create a node-express app that serves a built vue application",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItsYaBoyFish/Node-Vue-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ItsYaBoyFish/Node-Vue-App/issues"
+  },
+  "homepage": "https://github.com/ItsYaBoyFish/Node-Vue-App#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
